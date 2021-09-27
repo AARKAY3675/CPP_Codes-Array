@@ -1,4 +1,4 @@
-// Bubble sort: In bubble sort we compare the adjacent element if right element is greater than the left element then it will swap otherwise it remain as it is.
+// //Bubble sort: In bubble sort we compare the adjacent element if right element is greater than the left element then it will swap otherwise it remain as it is.
 //here is two loop first will run till n-1
 //second loop i.e after every ilteration the last element will be sorted and second loop will be run till n-i-1
 #include<iostream>
