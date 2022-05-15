@@ -17,7 +17,7 @@ int binarysearch (int arr[],int n,int x)
 }
 int main()
 {
-    int n;
+    { int n;
     cin>>n;
     int arr[n];
     for(int i=0;i<n;i++)
@@ -26,5 +26,5 @@ int main()
     cin>>x;
     cout<<binarysearch(arr,n,x);
     return 0;
-    
+    }
 }
