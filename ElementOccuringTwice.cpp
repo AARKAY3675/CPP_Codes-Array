@@ -9,7 +9,9 @@ int twice_element(int arr[] , int n )
         for(j=i+1;j<n;j++)
         {
             if (arr[i] == arr[j] )
+            {
             return arr[i];
+            }
         }
     }
 }
