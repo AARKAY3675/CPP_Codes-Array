@@ -1,4 +1,4 @@
-/* Program to find element which occurs more times than half of the size of array or Majority Element */
+/*  Program to find element which occurs more times than half of the size of array or Majority Element  */
 #include<iostream>
 using namespace std;
 int majelement(int arr[], int n )
